@@ -158,6 +158,9 @@ hr{
     margin-top: 50px;
 }
 /*footer style*/
+footer .container{
+    padding-top:0;
+}
 .footer-detail{
     display: flex;
     flex-direction:column;
